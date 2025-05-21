@@ -53,6 +53,48 @@ Engaged to assess the loyalty strategy opportunity and deliver a strategic recom
 
 ---
 
+---
+
+## 📄 Final PDF Deliverable: Gantt Timeline & Milestone Tracker
+
+**Urban Threads Gantt Timeline & Milestone Tracker**  
+This PDF deliverable includes the full project execution plan for a simulated Business Analyst engagement. The document was designed to mirror a real-world consulting or internal project environment, with attention to phase structure, task ownership, and delivery sequencing.
+
+### ✅ Contents Include:
+- **Cover Page** with project scope, BA role, and portfolio contact information  
+- **Branded Gantt Chart** outlining a 7-week timeline across four distinct BA phases  
+- **Color-coded Phase Labeling** and weekly simulated task durations  
+- **Milestone Tracker** with target checkpoints, assigned owners, and delivery status  
+
+---
+
+### What This Artifact Demonstrates:
+- Project planning aligned to **business analysis best practices**
+- Clear communication of project scope, phasing, and role clarity  
+- Structured stakeholder-focused execution modeled on real-world consulting logic  
+- Executive-ready documentation style for visibility and accountability  
+
+---
+
+### BABOK® Framework Alignment
+
+| Task / Deliverable                        | Knowledge Area                                  | BABOK Task References        |
+|-------------------------------------------|--------------------------------------------------|------------------------------|
+| Project Briefing & Planning               | Business Analysis Planning & Monitoring          | KA 1 (1.1, 1.2, 1.5)         |
+| Stakeholder Design & Interview Strategy   | Elicitation & Collaboration                      | KA 2 (2.1, 2.2)              |
+| Stakeholder Engagement & Documentation    | Elicitation & Collaboration                      | KA 2 (2.2, 2.3)              |
+| Process Mapping (As-Is / To-Be)           | Requirements Analysis & Design Definition        | KA 5 (5.1, 5.3, 5.4, 5.5)    |
+| Business Requirements Documentation (BRD) | Requirements Analysis & Design Definition        | KA 5 (5.2, 5.3, 5.5)         |
+| SQL-Based Insight Exploration             | Solution Evaluation                              | KA 6 (6.1, 6.2)              |
+| Executive Recommendation Deck             | Strategy Analysis                                 | KA 4 (4.2, 4.4, 4.5)         |
+| QA & Final Review                         | Requirements Life Cycle Management               | KA 3 (3.2, 3.3)              |
+
+This structured timeline reflects a practical application of the **BABOK® v3** framework as outlined by the International Institute of Business Analysis (IIBA), demonstrating how a business analyst scopes, plans, and communicates project activity through a standards-aligned lens.
+
+[Download the PDF](./Documentation/Urban_Threads_BA_Project_Gantt_Timeline_NicoleReaves.pdf)
+
+---
+
 ## Key Focus Areas
 
 - Stakeholder Elicitation & Interview Design  

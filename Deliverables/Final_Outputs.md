@@ -17,7 +17,7 @@ This section outlines the core deliverables that represent the completion of the
 
 ---
 
-- **[Gantt Timeline & Milestone Tracker (PDF)](../Documentation/Urban_Threads_BA_Project_Gantt_Timeline_NicoleReaves.pdf)**
+- **[Gantt Timeline & Milestone Tracker (PDF)](../Documentation/Urban_Threads_Gantt_Timeline_NicoleReaves_v1.0.pdf)**
 
 ---
 

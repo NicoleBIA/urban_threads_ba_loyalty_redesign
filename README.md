@@ -55,12 +55,12 @@ Engaged to assess the loyalty strategy opportunity and deliver a strategic recom
 
 ---
 
-## 📄 Final PDF Deliverable: Gantt Timeline & Milestone Tracker
+## Final PDF Deliverable: Gantt Timeline & Milestone Tracker
 
 **Urban Threads Gantt Timeline & Milestone Tracker**  
 This PDF deliverable includes the full project execution plan for a simulated Business Analyst engagement. The document was designed to mirror a real-world consulting or internal project environment, with attention to phase structure, task ownership, and delivery sequencing.
 
-### ✅ Contents Include:
+### Contents Include:
 - **Cover Page** with project scope, BA role, and portfolio contact information  
 - **Branded Gantt Chart** outlining a 7-week timeline across four distinct BA phases  
 - **Color-coded Phase Labeling** and weekly simulated task durations  

@@ -89,7 +89,7 @@ This PDF deliverable includes the full project execution plan for a simulated Bu
 
 This structured timeline reflects a practical application of the **BABOK® v3** framework as outlined by the International Institute of Business Analysis (IIBA), demonstrating how a business analyst scopes, plans, and communicates project activity through a standards-aligned lens.
 
-[Download the PDF](./Documentation/Urban_Threads_BA_Project_Gantt_Timeline_NicoleReaves.pdf)
+[Download the PDF](./Documentation/Urban_Threads_Gantt_Timeline_NicoleReaves_v1.0.pdf)
 
 ---
 

@@ -53,8 +53,6 @@ Engaged to assess the loyalty strategy opportunity and deliver a strategic recom
 
 ---
 
----
-
 ## Final PDF Deliverable: Gantt Timeline & Milestone Tracker
 
 **Urban Threads Gantt Timeline & Milestone Tracker**  

@@ -14,7 +14,7 @@ Each file aligns to key phases of the BA lifecycle—ranging from scenario frami
 | [`Scenario_Brief.pdf`](./Scenario_Brief.pdf) | Condensed project overview highlighting business context, problem summary, and goals |
 | [`Stakeholder_Personas.pdf`](./Stakeholder_Personas.pdf) | Persona reference sheet for key stakeholder roles, communication style, and perspectives |
 | [`Urban_Threads_BABOK_Aligned_Mapping.md`](./Urban_Threads_BABOK_Aligned_Mapping.md) | Mapping of core project activities to BABOK® knowledge areas and techniques |
-| [Urban_Threads_Gantt_Timeline_NicoleReaves_v1.0.pdf](./Urban_Threads_Gantt_Timeline_NicoleReaves_v1.0.pdf)
+| [`Urban_Threads_Gantt_Timeline_NicoleReaves_v1.0.pdf`](./Urban_Threads_Gantt_Timeline_NicoleReaves_v1.0.pdf)
  | Final timeline artifact: Gantt chart, milestone tracker, and cover sheet |
 | [`_Behind_the_Scenario.md`](./_Behind_the_Scenario.md) | Analyst-side rationale and design logic behind the simulation architecture |
 

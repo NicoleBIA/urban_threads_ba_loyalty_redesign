@@ -4,7 +4,7 @@ This section outlines the core deliverables that represent the completion of the
 
 ---
 
-## ✔ Final Deliverables
+## Final Deliverables
 
 - **Final Business Requirements Document (BRD)**  
   A formal document capturing stakeholder needs, business goals, functional and non-functional requirements, and process improvement opportunities.
@@ -14,6 +14,10 @@ This section outlines the core deliverables that represent the completion of the
 
 - **User Story Set or Acceptance Criteria** *(if applicable)*  
   A lightweight agile-aligned artifact capturing detailed functionality or system behaviors in user-centric language, ready for backlog refinement or development planning.
+
+---
+
+![image](https://github.com/user-attachments/assets/fd7816ff-54a0-46c9-a918-5803d827d0fc)
 
 ---
 

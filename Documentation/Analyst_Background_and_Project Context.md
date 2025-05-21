@@ -17,6 +17,7 @@ This simulation project was designed and executed as a professional-grade Busine
 ### Professional Certifications
 - Ceritified Process Improvement Specialist (Six sigma Global Institute)
 - Tableau Business Intelligence Analyst  (Tableau Learning)
+  > (Offered through Coursera Platform)
 
 ### Professional Certificates
 - Project Management Foundations (Google)
@@ -25,11 +26,12 @@ This simulation project was designed and executed as a professional-grade Busine
 - Project Execution  (Google)
 - Business Analysis Process (Tableau Learning)  
 - Data for Business Analysts with Microsoft (Microsoft)
+  > Offered through Coursera Platform)
 
 ### Academic Education
-- **B.A. in Communication**  
+- **B.A. in Communication** - Metropolitan State University; Denver, CO
   _Focus: Training, Development, and Consulting Strategies_  
-- **M.S. in Management, International Business**
+- **M.S. in Management, International Business** - Walden University, Minneapolis, MN
 
 ### All Professional Training, Development and Certifications can be wiewed on My LinkedIn Profile
 [Learn more about my education, training, and credentials on LinkedIn](https://www.linkedin.com/in/nicolereaves)

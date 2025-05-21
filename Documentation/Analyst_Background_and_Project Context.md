@@ -6,11 +6,13 @@ This simulation project was designed and executed as a professional-grade Busine
 
 ## Foundational Knowledge & Training
 
-### Professional Training (LinkedIn Learning – IIBA & PMI-aligned)
+### Professional Training 
+> (LinkedIn Learning – IIBA, NASBA & PMI-aligned)
 - Business Analysis Foundations  
 - Business Process Modeling (BPMN), Mapping, and Workflow Diagrams  
 - Requirements Elicitation for Business Analysts: Interviews  
-- Requirements Elicitation and Analysis  
+- Requirements Elicitation and Analysis
+- Lean Six Sigma Foundations
 
 ### Professional Certifications
 - Ceritified Process Improvement Specialist (Six sigma Global Institute)
@@ -22,7 +24,7 @@ This simulation project was designed and executed as a professional-grade Busine
 - Project Planning  (Google)
 - Project Execution  (Google)
 - Business Analysis Process (Tableau Learning)  
-- Data for Business Analysts with Microsoft (Microsfort
+- Data for Business Analysts with Microsoft (Microsoft)
 
 ### Academic Education
 - **B.A. in Communication**  
